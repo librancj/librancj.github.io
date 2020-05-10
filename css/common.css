@@ -1,0 +1,21 @@
+@charset "utf-8";
+body {
+	margin:0px;
+	padding:0px;
+	color:#666;
+	font:12px Arial, Helvetica, sans-serif;
+	CURSOR: url('/css/Arrow.cur');
+     }
+a {CURSOR: url('/css/Hand.cur');}
+a:link, a:visited, a:active{
+	color: #09C;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #9C0;
+	text-decoration: underline;
+}
+img {
+border:0;
+}
